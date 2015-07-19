@@ -1,3 +1,7 @@
+# changes #
+
+My version (forked from Sean's) compiles under ERL OTP 18. This is a simple fix of a few typespecs.
+
 # erlang_iso8601 #
 
 Formats and parses ISO 8601 dates.
